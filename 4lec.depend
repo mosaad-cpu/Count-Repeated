@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599928531 source:d:\edu\courses\embdded system\c programing\projects\4lec\main.c
+	<stdio.h>
+	<stdlib.h>
+
